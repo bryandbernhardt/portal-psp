@@ -28,9 +28,5 @@
       <li>Pressione o botão utilizado para sair dos jogos e X para confirmar.</li>
       <li>Inicie novamente o 'ARK Loader' e pronto.</li>
     </ol>
-
-    <p class="pb-4 mt-3 underline">
-      <a href="https://github.com/PSP-Archive/ARK-4" target="_blank" rel="noopener noreferrer">Acessar repositório ARK-4</a>
-    </p>
   </main>
 </template>
