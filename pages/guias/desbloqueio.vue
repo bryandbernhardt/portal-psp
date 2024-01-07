@@ -22,8 +22,8 @@
     </ol>
     <p class="mt-3">Para não precisar rodar o 'Ark Loader' sempre quando ligar o PSP, utilize o Infinity:</p>
     <ol class="list-decimal ml-10">
-      <li>Copiar o arquivo EBOOT.PBP (ou EBOOT_GO.PBP caso esteja no PSP GO e renomeie ele para EBOOT.PBP após copiar) de dentro da pasta Infinity para /PSP/GAME/UPDATE</li>
-      <li>Acessar os jogos do memory stick e abrir o 'Infinity', pressione X para o PSP realizar a instalação e X novamente para reiniciar</li>
+      <li>Copiar o arquivo EBOOT.PBP (ou EBOOT_GO.PBP caso esteja no PSP GO e renomeie ele para EBOOT.PBP após copiar) de dentro da pasta Infinity para /PSP/GAME/UPDATE, caso não exista a pasta UPDATE, crie.</li>
+      <li>Acessar os jogos do memory stick e abrir o 'Infinity', pressione X para o PSP realizar a instalação e X novamente para reiniciar.</li>
       <li>Abra o 'Infinity' novamente e clique seta para esquerda, selecione a opção do ARK-4.</li>
       <li>Pressione o botão utilizado para sair dos jogos e X para confirmar.</li>
       <li>Inicie novamente o 'ARK Loader' e pronto.</li>
